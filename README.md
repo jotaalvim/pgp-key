@@ -1,1 +1,3 @@
 # pgp-key
+
+pgp fingerprint: E2E5 D498 3D21 1930 00D7 D695 93DD 192A 764F E0C0
